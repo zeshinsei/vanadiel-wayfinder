@@ -3,6 +3,12 @@ layout: default
 title: Home
 ---
 
+> ### 🚧 Maintenance Notice
+> ## **Under Construction**
+> We fans are building a new web project! This page is a work in progress. Links, text, and formatting may change frequently without warning. An announcement will be made on social medias when this project is ready for release.
+
+---
+
 # Quickstart
 
 1. Buy the game: [Square Enix shop (NA)](https://na.store.square-enix-games.com/final-fantasy_-xi_-ultimate-collection-seekers-edition---digital) or [Square Enix shop (EU)](https://eu.store.square-enix-games.com/final-fantasy_-xi_-ultimate-collection-seekers-edition---digital) or [Steam](https://store.steampowered.com/app/230330/FINAL_FANTASY_XI_Ultimate_Collection_Seekers_Edition/)
